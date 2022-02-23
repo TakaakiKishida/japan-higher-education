@@ -1,16 +1,7 @@
 library(tidyverse)
 library(ggthemes)
 
-# vis
-pacman::p_load(tidyverse, here)
-here::here()
-
-educ <- readr::read_rds(here::here("data/education.rds"))
-
-# japan-higher-education
-
-
-
+source("src/salary_international.R")
 
 # Salary in Academia ------------------------------------------------------
 
