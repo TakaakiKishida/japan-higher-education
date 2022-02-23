@@ -48,3 +48,4 @@ salary_list <-
 # https://www.e-stat.go.jp/dbview?sid=0003017832
 # https://www.e-stat.go.jp/dbview?sid=0003086667
 # https://www.e-stat.go.jp/dbview?sid=0003109412
+
