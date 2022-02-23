@@ -15,6 +15,13 @@
 - [Professor Salaries From Around the World](https://academicpositions.com/career-advice/professor-salaries-from-around-the-world) for Europe and America (took a weighted average)
 - [PPP Converter](https://www.chrislross.com/PPPConverter/) developed by Chris Ross (I understand this does not achieve rigorous comparison)
 
+**Taxing Wages**
+
+- Taxing Wages by OECD
+  - [Report](https://www.oecd-ilibrary.org/taxation/taxing-wages-2021_83a87978-en) ([sample page](https://read.oecd-ilibrary.org/taxation/taxing-wages-2018_tax_wages-2018-en#page22))
+  - [Taxing Wages country and comparative databases](https://stats.oecd.org/Index.aspx?DataSetCode=AWCOMP)
+
+
 
 ### Objective 
 - (Re)Confirm and present the sad fact about current higher education in Japan
