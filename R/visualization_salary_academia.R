@@ -5,7 +5,7 @@ source("src/salary_international.R")
 
 # Salary in Academia ------------------------------------------------------
 
-salary_list %>% 
+salary_global <- salary_list %>% 
   dplyr::filter(associate_professor != "NA") %>% 
   ggplot(aes(x = reorder(country, associate_professor), y = associate_professor)) +
   geom_bar(stat = "identity", position = "stack") + 
@@ -17,3 +17,6 @@ salary_list %>%
   labs(title = "Average Annual Salaries of Associate Professor from Around the World",
        subtitle = "Salaries are converted from the local currency to USD using PPP") 
 
+ggsave(salary_global, 
+       filename = "fig/academia/salary_global.png", 
+       width = 9, height = 6)
